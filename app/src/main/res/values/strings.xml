@@ -1,0 +1,7 @@
+<resources>
+    <string name="appName">Suma</string>
+    <string name="NumeroTxtA">Ingrese el primer numero :</string>
+    <string name="NumeroTxtB">Ingrese el segundo numero :</string>
+    <string name="btnSumar">Calcular Suma : </string>
+
+</resources>
